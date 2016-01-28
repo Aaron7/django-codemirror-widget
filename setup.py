@@ -27,7 +27,6 @@ setup(
     author = "Alisue",
     author_email = "lambdalisue@hashnote.net",
     url=r"https://github.com/lambdalisue/django-codemirror-widget",
-    download_url = r"https://github.com/lambdalisue/django-codemirror-widget/tarball/master",
     license = 'BSD',
     packages = find_packages(),
     include_package_data = True,
